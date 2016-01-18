@@ -7,4 +7,4 @@ Konacno, nakon sto je uzeo burek sasirom, nezadovoljno je poceo da ga jede. Sira
 
 [cuti, i mrndza, jer za bolje i nije](tihaPatnja/tihaPatnja.md)
 
-[pogledi ka njemu, ludak](serbian/burekSir/programerski-zivot.md)
+[pogledi ka njemu, ludak](/programerski-zivot.md)
